@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- <link rel="shortcut icon" href="images/star.png" type="favicon/ico" /> -->
 
-        <title>Itsourcecode Restaurant</title>
+        <title>Selena Hotel</title>
 
        <link rel="stylesheet" href="{{ asset('frontend/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('frontend/css/font-awesome.min.css') }}">
@@ -62,7 +62,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <div class="" href="#">
-                        <h4>ITSOURCECODE RESTAURANT MANAGEMENT</h4>
+                        <h4>SELENA HOTEL</h4>
                     </div>
                 </div>
 
@@ -110,11 +110,12 @@
                             <div class="section-content">
                                 <h2 class="section-content-title">About us</h2>
                                 <p class="section-content-para">
-                                    Astronomy compels the soul to look upward, and leads us from this world to another.  Curious that we spend more time congratulating people who have succeeded than encouraging people who have not. As we got further and further away, it [the Earth] diminished in size.
+                                Book a 5-star hotel in the heart of Kigali. Elegant accommodation, fine dining and a state of the art conference centre at one the best hotels in Rwanda.
                                 </p>
                                 <p class="section-content-para">
-                                    beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.  Where ignorance lurks, so too do the frontiers of discovery and imagination.
+                                Book a 5-star hotel in the heart of Kigali. Elegant accommodation, fine dining and a state of the art conference centre at one the best hotels in Rwanda.
                                 </p>
+                                
                             </div> <!-- /.section-content -->
                         </div>
                     </div> <!-- /.row -->
@@ -168,7 +169,7 @@
                                         </div>
                                     </a>
                                         
-                <h2 class="white">{{ $item->price }} tk</h2>
+                <h2 class="white">{{ $item->price }} Rwf</h2>
                                 </li>
                                 @endforeach
                                
@@ -291,9 +292,9 @@
                     </div>
                     <div class="col-xs-6 col-sm-6 dis-table-cell">
                         <div class="section-content">
-                            <p>Purok Daisy, Brgy.Enclaro, Binalbagan, Negros Occidental, Philippines</p>
-                            <p>09123456789</p>
-                            <p>itsourcecode@gmail.com </p>
+                            <p> Kigali Rwanda, Nyarugenge, selena hotel</p>
+                            <p>0781345944</p>
+                            <p>selenahotel@gmail.com</p>
                         </div>
                     </div>
                 </div>
@@ -301,8 +302,8 @@
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3">
                             <ul class="center-block">
-                                <li><a href="#" class="fb"></a></li>
-                                <li><a href="#" class="twit"></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=100086902699857" class="fb"></a></li>
+                                <li><a href="witter.com/2odaytv" class="twit"></a></li>
                                 <li><a href="#" class="g-plus"></a></li>
                                 <li><a href="#" class="link"></a></li>
                             </ul>
@@ -354,7 +355,7 @@
                     <div class="col-md-6 col-md-offset-3">
                         <div class="copyright text-center">
                             <p>
-                                &copy; Copyright 2021. Restaurant Management System. All Rights Reserved.</a>
+                                &copy; Copyright 2022. Selena hotel. All Rights Reserved.</a>
                             </p>
                         </div>
                     </div>

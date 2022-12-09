@@ -5,17 +5,7 @@
             <ul>
               <li>
                 <a href="">
-                  Itsourcecode
-                </a>
-              </li>
-              <li>
-                <a href="">
-                  About Us
-                </a>
-              </li>
-              <li>
-                <a href="">
-                  Blog
+                  SELENA HOTEL
                 </a>
               </li>
             </ul>
@@ -24,7 +14,7 @@
             &copy;
             <script>
               document.write(new Date().getFullYear())
-            </script> Restaurant Management System. All Right Reserved.
+            </script> Copyright . Selena hotel. All Rights Reserved.
           </div>
         </div>
             </footer>

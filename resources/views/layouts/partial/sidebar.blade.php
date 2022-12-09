@@ -6,8 +6,7 @@
     -->
       <div class="logo">
         <a href="{{ route('admin.dashboard') }}" class="simple-text logo-normal">
-          Restaurant
-        </a>
+SELENA HOTEL        </a>
       </div>
       <div class="sidebar-wrapper">
         <ul class="nav">
